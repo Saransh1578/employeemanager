@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Bruce Wayne",
+        "email": "bruce@gmail.com",
+        "jobTitle": "Batman",
+        "imageUrl": "https://www.pinterest.com/rarome/badass-batman-images/",
+        "phone": "3939393939"
+    },
+    {
+        "id": 2,
+        "name": "Jon Jones",
+        "email": "jon@gmail.com",
+        "jobTitle": "MMA",
+        "imageUrl": "https://www.gettyimages.ca/photos/ufc-fighter-portrait-jon-jones",
+        "phone": "12345678"
+    },
+    {
+        "id": 3,
+        "name": "Matt Murdock",
+        "email": "matt@gmail.com",
+        "jobTitle": "Daredevil",
+        "imageUrl": "https://www.deviantart.com/lumoi/art/Daredevil-Profile-Picture-714991318",
+        "phone": "9876543212"
+    },
+    {
+        "id": 4,
+        "name": "Saul Goodman",
+        "email": "mcgill@gmail.com",
+        "jobTitle": "Lawyer",
+        "imageUrl": "https://www.pinterest.com/ideas/better-call-saul-profile-picture/930455616986/",
+        "phone": "123456"
+    },
+    {
+        "id": 5,
+        "name": "Tony Stark",
+        "email": "tony.stark@starkindustries.com",
+        "jobTitle": "Iron Man",
+        "imageUrl": "https://www.marvel.com/characters/iron-man/on-screen",
+        "phone": "555-555-5555"
+    },
+    {
+        "id": 6,
+        "name": "Doctor Strange",
+        "email": "doctor.strange@sanctum.com",
+        "jobTitle": "Sorcerer Supreme",
+        "imageUrl": "https://www.marvel.com/characters/doctor-strange/on-screen",
+        "phone": "555-555-1234"
+    }
+]
